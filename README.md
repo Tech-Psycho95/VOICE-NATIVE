@@ -28,6 +28,7 @@ This is a minimal Next.js application that demonstrates a voice-native workflow 
 
     ```
     ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
+    ELEVENLABS_VOICE_ID=our_voice_id_here
     ```
 
 3.  **Run the development server:**
